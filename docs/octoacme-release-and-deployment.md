@@ -22,6 +22,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Stakeholder Liaison coordinates release communications
+- [ ] Risk Manager reviews post-deployment risks and updates Risk Register
+- [ ] Change Control Coordinator closes related change requests
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
@@ -36,3 +39,11 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Cross-Functional Coordination
+- **Project Manager:** Coordinates release timeline and checklist execution
+- **Stakeholder Liaison:** Communicates release status and impacts to stakeholders (use `octoacme-stakeholder-communication-template.md`)
+- **Risk Manager:** Monitors deployment risks and readiness to rollback
+- **Change Control Coordinator:** Ensures all approved changes are included and documented
+
+*See `octoacme-roles-and-personas.md` for detailed role descriptions.*

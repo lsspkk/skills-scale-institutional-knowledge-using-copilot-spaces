@@ -31,3 +31,29 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Review process documentation effectiveness (including risk management, stakeholder communication, and change control)
+- Update templates based on team feedback
+
+## Role-Specific Retrospective Focus
+
+### Risk Manager
+- Were risks identified early enough?
+- Was mitigation effective?
+- Should risk assessment criteria be adjusted?
+
+### Stakeholder Liaison
+- Were stakeholders appropriately informed?
+- Was feedback captured and acted upon?
+- Should communication frequency or format change?
+
+### Change Control Coordinator
+- Were changes managed smoothly?
+- Did the change process help or hinder progress?
+- Should approval thresholds be adjusted?
+
+*Use `octoacme-risk-management-template.md` for risk retrospectives and lessons learned.*
+
+## Related Resources
+- **Onboarding Improvements:** Update `octoacme-onboarding-checklist.md` based on new hire feedback
+- **Process Templates:** Refine templates in response to team suggestions
+- **Role Definitions:** Update `octoacme-roles-and-personas.md` if role responsibilities evolve

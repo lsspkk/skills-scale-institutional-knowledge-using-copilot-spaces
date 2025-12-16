@@ -36,8 +36,19 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held with all core team members
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Risk Register established with Risk Manager
+- [ ] Change control process agreed upon (see `octoacme-change-control-template.md`)
+- [ ] Stakeholder communication plan finalized
+
+## Cross-Functional Collaboration
+- **Risk Manager:** Facilitate risk identification workshop during planning; establish Risk Register
+- **Stakeholder Liaison:** Ensure stakeholder input is captured; set up communication schedule
+- **Change Control Coordinator:** Define change request process and approval thresholds
+- **Project Manager:** Coordinate planning activities and ensure all artifacts are complete
+
+*Refer to `octoacme-roles-and-personas.md` for detailed collaboration points between roles.*
