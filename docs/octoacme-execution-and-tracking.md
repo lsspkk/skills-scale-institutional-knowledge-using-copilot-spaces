@@ -36,5 +36,17 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Regular demos scheduled with stakeholders
+- [ ] Risk register updated weekly by Risk Manager
+- [ ] Stakeholder updates sent per communication plan
+- [ ] Change requests processed through Change Control Coordinator
+- [ ] Team onboarding completed using `octoacme-onboarding-checklist.md`
+
+## Execution Role Clarity
+- **Project Manager:** Coordinates daily execution, removes blockers, tracks progress
+- **Risk Manager:** Monitors risks, updates Risk Register, escalates critical issues
+- **Stakeholder Liaison:** Sends regular updates, gathers feedback, manages stakeholder expectations
+- **Change Control Coordinator:** Reviews and processes change requests, maintains change log
+- **Developers/QA:** Execute backlog items, collaborate on reviews, raise blockers early
+
+*See `octoacme-roles-and-personas.md` for complete role definitions and collaboration points.*

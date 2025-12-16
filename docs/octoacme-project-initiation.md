@@ -32,6 +32,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Stakeholder mapping completed (use `octoacme-stakeholder-communication-template.md`)
+- [ ] Initial risk assessment performed (use `octoacme-risk-management-template.md`)
+- [ ] Key roles assigned (PM, PdM, Risk Manager, Stakeholder Liaison as needed)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
@@ -41,3 +44,12 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+- Initial risks identified and mitigation strategies outlined
+- Communication plan established with Stakeholder Liaison
+
+## Cross-Functional Coordination
+- **Risk Manager:** Begin initial risk identification during one-pager development
+- **Stakeholder Liaison:** Map stakeholders and establish communication plan early
+- **Change Control Coordinator:** Set expectations for how changes will be managed
+
+*See `octoacme-roles-and-personas.md` for detailed role responsibilities.*
